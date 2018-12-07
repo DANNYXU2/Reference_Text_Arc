@@ -22,7 +22,7 @@ text("b  c  y",300,400);
 //toy
 fill(255,0,0);
 textSize(110);
-textAlign(300,600);}
+textAlign(300,600);
 text("r  c  y",300,600);
 
 //arcs
